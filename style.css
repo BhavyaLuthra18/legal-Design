@@ -78,6 +78,7 @@ h1 {
   margin-left: auto;
 }
 
+/*-------Top-heading------*/
 h2 {
   font-size: 2rem;
   font-weight: normal;
@@ -90,10 +91,12 @@ h3 {
   margin: 0;
 }
 
+/*-------Sub-Heading-Styling-------*/
 p {
   margin: 0;
 }
 
+/*------------Container-Covering-Top-and-Sub-Heading---------------*/
 .text {
   width: 300px;
 }
@@ -113,6 +116,7 @@ p {
   margin-top: 50px;
 }
 
+/*--------------------------Tablet Screen(Max Width 768px)----------------------------- */
 @media screen and (max-width: 768px) {
   body {
     flex-direction: column;
