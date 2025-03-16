@@ -88,19 +88,19 @@ h2 {
   margin: 0;
 }
 
-/*------------------Top-Sub-Heading(Legal-Legal)--------------------------*/
+/*------------------------------Top-Sub-Heading(Legal-Legal)--------------------------*/
 h3 {
   color: #6f6f6f;
   font-size: 1.5rem;
   margin: 0;
 }
 
-/*-------Sub-Heading-Styling-----------*/
+/*----------------Sub-Heading-Styling-----------------------*/
 p {
   margin: 0;
 }
 
-/*------------Container-Covering-Top-and-Sub-Heading---------------*/
+/*----------------------Container-Covering-Top-and-Sub-Heading------------------------*/
 .text {
   width: 300px;
 }
