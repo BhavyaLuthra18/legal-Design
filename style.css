@@ -29,6 +29,7 @@ main {
   gap: 3rem;
 }
 
+/*----------------------- Aside-styling---------------*/
 aside {
   width: 40%;
   height: 90vh;
@@ -42,6 +43,7 @@ aside img {
   border: 1px solid black;
 }
 
+/*-------------Box-Styling-----------------*/
 .box:not(:last-of-type) {
   margin-bottom: 1.5rem;
 }
@@ -60,6 +62,7 @@ aside img {
   padding: 0.25rem;
 }
 
+/*--------------------------Logo-Styling--------------------------------*/
 .logo {
   background-color: #ffff;
   border-radius: 35px;
