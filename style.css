@@ -85,6 +85,7 @@ h2 {
   margin: 0;
 }
 
+/*------------------Top-Sub-Heading(Legal-Legal)--------------------------*/
 h3 {
   color: #6f6f6f;
   font-size: 1.5rem;
@@ -101,6 +102,8 @@ p {
   width: 300px;
 }
 
+/*----------------right-arrow-icon--------------------*/
+
 .fa-chevron-right {
   font-size: 2.5rem;
 }
@@ -116,7 +119,7 @@ p {
   margin-top: 50px;
 }
 
-/*-----------------------Tablet-Screen(Max-Width-768px)---------------------------- */
+/*-----------------------gitTablet-Screen(Max-Width-768px)---------------------------- */
 @media screen and (max-width: 768px) {
   body {
     flex-direction: column;
