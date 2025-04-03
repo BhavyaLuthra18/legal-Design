@@ -116,7 +116,7 @@ p {
   margin-top: 50px;
 }
 
-/*--------------------------Tablet-Screen(Max-Width-768px)---------------------------- */
+/*-------------------------Tablet-Screen(Max-Width-768px)---------------------------- */
 @media screen and (max-width: 768px) {
   body {
     flex-direction: column;
