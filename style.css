@@ -23,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-/*-----------------------Container-Styling-------------------------*/
+/*----------------------------Container-Styling-------------------------*/
 main {
   display: flex;
   flex-direction: column;
@@ -46,7 +46,7 @@ aside img {
   border: 1px solid black;
 }
 
-/*-------------Box-Styling-----------------*/
+/*--------------------------Box-Styling-------------------------*/
 .box:not(:last-of-type) {
   margin-bottom: 1.5rem;
 }
